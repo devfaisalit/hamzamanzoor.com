@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: Varino;
+    src: url(./fonts/Varino\ -\ Normal.otf);
+    src: url(./fonts/Varino\ -\ Normal.ttf);
+  }
+html{scroll-behavior: smooth;}
